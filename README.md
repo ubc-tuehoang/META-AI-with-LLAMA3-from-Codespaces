@@ -7,9 +7,7 @@
 
 ## Launching META AI with LLAMA3 from Codespaces.
 
-
-
-![alt text](image.png)
+<img src="image.png" alt="alt text" width="300" height="300">
 
 ## To launch META AI with LLAMA3 from Codespaces, follow these instructions:
 
@@ -30,7 +28,7 @@
 
 - If you don't see this option, the repository might not support Codespaces or you might not have permission to access it.
 
-### 3. From a Codespace:
+### 3. From Codespaces:
 
 - Access the terminal and execute the following Docker build commands:
 - 1. > docker build -t meta_ai_image . 
@@ -43,4 +41,12 @@
 
 - 5. Communicate with META AI LLAMA3
 
-![alt text](image-2.png)
+_Example prompt 1: What is gaba receptor?_
+
+![alt text](image-6.png)
+
+- 6. An example of the next prompt:
+_Example prompt 2: Considering this information, what steps can be taken to enhance mental well-being_
+
+![alt text](image-5.png)
+
