@@ -19,6 +19,8 @@ RUN wget $DOWNLOAD_URL -O install1.sh && \
     chmod +x install1.sh && \
     ./install1.sh
 
+
+    
 # Command to run when the container starts
 CMD [ "echo", "Successfully installed!" ]
 
