@@ -46,6 +46,7 @@ _Example prompt 1: What is gaba receptor?_
 ![alt text](image-6.png)
 
 - 6. An example of the next prompt:
+
 _Example prompt 2: Considering this information, what steps can be taken to enhance mental well-being_
 
 ![alt text](image-5.png)
