@@ -51,3 +51,5 @@ _Example prompt 2: Considering this information, what steps can be taken to enha
 
 ![alt text](image-5.png)
 
+
+EOF
