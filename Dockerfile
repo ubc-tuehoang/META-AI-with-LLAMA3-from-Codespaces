@@ -25,6 +25,10 @@ RUN wget $DOWNLOAD_URL -O install1.sh && \
 CMD [ "echo", "Successfully installed!" ]
 
 ########
-#docker build -t meta_ai_image .
-#docker run -it meta_ai_image /bin/bash
-#
+#> docker build -t meta_ai_image .
+#> docker run -it meta_ai_image /bin/bash
+#> ollama serve &
+###<press enter>
+#> ollama list
+###<to use Meta AI Llama3>
+#> ollama run llama3 --verbose

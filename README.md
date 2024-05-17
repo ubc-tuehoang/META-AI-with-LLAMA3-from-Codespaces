@@ -34,10 +34,11 @@
 - 1. > docker build -t meta_ai_image . 
 - 2. > docker run -it meta_ai_image /bin/bash
 - 3. From the Terminal, launch ollama with command
--       3.1. > ollama serve
+-       3.1. > ollama serve &
 - 4. Create another Terminal, to access and launch META AI LLAMA3
--       4.1 > ollama run llama3
-![alt text](image-1.png)
+-       4.1 > ollama run llama3 --verbose
+
+![alt text](image-7.png)
 
 - 5. Communicate with META AI LLAMA3
 
@@ -52,4 +53,4 @@ _Example prompt 2: Considering this information, what steps can be taken to enha
 ![alt text](image-5.png)
 
 
-EOF
+
