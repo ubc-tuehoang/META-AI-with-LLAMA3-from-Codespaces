@@ -7,9 +7,11 @@
 
 ## Launching META AI with LLAMA3 from Codespaces.
 
-<img src="image.png" alt="alt text" width="300" height="300">
+<ins>Stateless / No State Retention:</ins> The system does not retain any information about past interactions or events. Each request from a client is treated as an independent and unrelated request or prompt.
 
-## To launch META AI with LLAMA3 from Codespaces, follow these instructions:
+![alt text](image-8.png)
+
+## To launch a stateless META AI with LLAMA3 from Codespaces, follow these instructions:
 
 ### 1. Access GitHub Codespaces:
 
