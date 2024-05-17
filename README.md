@@ -5,9 +5,9 @@
 - Strive for excellence
 - Explore together & unlock the world's knowledge
 
-## Launching META AI with LLAMA3 from Codespaces.
+## Stateless / No State Retention
 
-<ins>Stateless / No State Retention:</ins> The system does not retain any information about past interactions or events. Each request from a client is treated as an independent and unrelated request or prompt.
+_The system does not retain any information about past interactions or events. Each request from a client is treated as an independent and unrelated request or prompt._
 
 ![alt text](image-8.png)
 
